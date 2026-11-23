@@ -4,10 +4,9 @@
 class Attendance < Formula
   desc "University attendance confirmation and registration CLI/TUI for macOS"
   homepage "https://github.com/HR0101/AttendanceSystem"
-  url "https://github.com/HR0101/AttendanceSystem/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "048784fdfb91ccb473d45f933ad118a975517177ad39414c123332016e218e23"
+  url "https://github.com/HR0101/AttendanceSystem/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "d286e93f92eda2efc1c6f48548fb072f044f01b3dd4db38e20f64e03b82aee5e"
   license "MIT"
-  revision 1
   head "https://github.com/HR0101/AttendanceSystem.git", branch: "main"
 
   depends_on :macos
